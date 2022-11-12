@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void fade(View view) {
         ImageView bartImageView = findViewById(R.id.bartImageView);
 //        ImageView homerImageView = findViewById(R.id.homerImageView);
+//        lajesfjewrqjewtgjetgj rei34erihtr4eiht
 
         bartImageView.animate().scaleX(.5f).scaleY(.5f).setDuration(2000);
 //        homerImageView.animate().alpha(1).setDuration(2000);
